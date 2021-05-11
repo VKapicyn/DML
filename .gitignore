@@ -1,3 +1,6 @@
 /dataset
 /test_dataset
-/models
+/models/age_model0.pth
+/models/gender_model0.pth
+/server/__pycache__
+/.ipynb_checkpoints
