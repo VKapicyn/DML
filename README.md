@@ -8,7 +8,7 @@
 docker build -t dml_vkapicyn .
 docker run -p 8000:8000 dml_vkapicyn
 ```
-Приложение доступно по адресу http:localhost:8000/
+Приложение доступно по адресу http://localhost:8000/
 
 ## Повторное обучение
 
