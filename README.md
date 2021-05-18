@@ -12,7 +12,7 @@ docker run -p 8000:8000 dml_vkapicyn
 
 ## Повторное обучение
 
-1. Скачайте датасет, распакуйте архив в /dataset
+1. Скачайте [датасет](https://www.kaggle.com/ttungl/adience-benchmark-gender-and-age-classification/download), распакуйте архив в /dataset
 2. Переместите датасет в контейнер.
 ```sh
 docker cp ВАШ_ПУТЬ_ДО_dataset container:/
